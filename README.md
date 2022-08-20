@@ -167,14 +167,4 @@ Realizar el deploy en Vercel.
 </ul>
 <br>
 
-<a href="https://countries-client-pi.vercel.app/">
-<img src="https://github.com/JoselFO8/JoselFO8/blob/main/CountriesApp.gif" alt="CountriesApp"/> 
-</a> <br>
 
-<h3 align="left">Informacion adicional:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoselFO8&show_icons=true&locale=en&layout=compact" alt="JoselFO8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoselFO8&show_icons=true&locale=en" alt="JoselFO8" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoselFO8&" alt="JoselFO8" /></p>
